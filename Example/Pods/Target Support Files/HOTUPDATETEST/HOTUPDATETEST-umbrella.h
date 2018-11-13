@@ -11,7 +11,7 @@
 #endif
 
 #import "Manager.h"
-#import "TESTViewController.h"
+#import "MAViewController.h"
 
 FOUNDATION_EXPORT double HOTUPDATETESTVersionNumber;
 FOUNDATION_EXPORT const unsigned char HOTUPDATETESTVersionString[];

@@ -14,7 +14,7 @@ PODS:
   - AFNetworking/Serialization (3.2.1)
   - AFNetworking/UIKit (3.2.1):
     - AFNetworking/NSURLSession
-  - HOTUPDATETEST (0.1.0):
+  - HOTUPDATETEST (0.2.0):
     - AFNetworking
     - Masonry
     - ReactiveObjC
@@ -51,7 +51,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
-  HOTUPDATETEST: b6a85e2716c1f702826bd1d77285f80322591580
+  HOTUPDATETEST: 78bc3dd2352ef24426e80aa52f69ba5128b1a507
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
   SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
