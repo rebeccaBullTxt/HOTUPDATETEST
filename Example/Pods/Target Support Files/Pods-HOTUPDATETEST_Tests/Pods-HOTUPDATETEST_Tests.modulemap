@@ -1,0 +1,6 @@
+framework module Pods_HOTUPDATETEST_Tests {
+  umbrella header "Pods-HOTUPDATETEST_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

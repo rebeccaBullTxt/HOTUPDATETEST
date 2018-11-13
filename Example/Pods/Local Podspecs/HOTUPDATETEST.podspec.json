@@ -1,0 +1,44 @@
+{
+  "name": "HOTUPDATETEST",
+  "version": "0.1.0",
+  "summary": "HOTUPDATETESTHOTUPDATETEST",
+  "description": "HOTUPDATETESTHOTUPDATETESTHOTUPDATETEST",
+  "homepage": "https://github.com/rebeccaBullTxt/HOTUPDATETEST",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rebeccaBullTxt": "rebeccaBull@sina.com"
+  },
+  "source": {
+    "git": "https://github.com/rebeccaBullTxt/HOTUPDATETEST.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HOTUPDATETEST/Classes/**/*",
+  "public_header_files": "HOTUPDATETEST/Classes/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "SDWebImage": [
+
+    ],
+    "ReactiveObjC": [
+
+    ],
+    "WCDB": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
+}

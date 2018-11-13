@@ -1,0 +1,64 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - HOTUPDATETEST (0.1.0):
+    - AFNetworking
+    - Masonry
+    - ReactiveObjC
+    - SDWebImage
+    - WCDB
+  - Masonry (1.1.0)
+  - ReactiveObjC (3.1.0)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - SQLiteRepairKit (1.2.1):
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - WCDB (1.0.7.5):
+    - SQLiteRepairKit (~> 1.2.0)
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - WCDBOptimizedSQLCipher (1.2.1)
+
+DEPENDENCIES:
+  - HOTUPDATETEST (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Masonry
+    - ReactiveObjC
+    - SDWebImage
+    - SQLiteRepairKit
+    - WCDB
+    - WCDBOptimizedSQLCipher
+
+EXTERNAL SOURCES:
+  HOTUPDATETEST:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  HOTUPDATETEST: b6a85e2716c1f702826bd1d77285f80322591580
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  SQLiteRepairKit: 4d21bab9eff6a273f63da6815a0d1659e53f5bde
+  WCDB: 8e90babdeb7784c569353a4bd22a66c0a175a882
+  WCDBOptimizedSQLCipher: baf44493b0c7a3d49e97bc5b64a3856f6428ddd1
+
+PODFILE CHECKSUM: a88959919c9c7c6319aeb5ae8033085c0200ad6c
+
+COCOAPODS: 1.5.3

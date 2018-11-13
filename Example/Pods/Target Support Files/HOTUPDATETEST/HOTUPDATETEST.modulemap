@@ -1,0 +1,6 @@
+framework module HOTUPDATETEST {
+  umbrella header "HOTUPDATETEST-umbrella.h"
+
+  export *
+  module * { export * }
+}
